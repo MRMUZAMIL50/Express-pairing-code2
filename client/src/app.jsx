@@ -93,7 +93,7 @@ const App = () => {
     <div className="container">
       <form onSubmit={submit}>
         <BsPerson className="icon" />
-        <h1>SILENT-SOBX-MD-PAIR</h1>
+        <h1>MUZAMIL-ZAKHMI-MD-PAIR</h1>
         {res.status && (
           <Alert variant={res.is}>
             {res.msg}
